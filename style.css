@@ -10,7 +10,8 @@
     background: yellow;
     /*add CSS here*/
     margin:20px 460px;
-    padding:20px 40px
+    padding:20px 40px;
+    text-align:auto;
 }
 
 #subtitle {
@@ -19,6 +20,7 @@
     /*add CSS here*/
     margin:20px 460px;
     padding:20px 40px;
+    text-align:auto;
     
 }
 
